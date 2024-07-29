@@ -1,0 +1,86 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.first-line {
+  display: flex;
+  flex-direction: row;
+}
+.lists {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.initial-letter {
+  background-color: red;
+  height: 6vh;
+  width: 3vw;
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 20px;
+  border-width: 0px;
+  font-size: 20px;
+}
+.inputs {
+  padding-bottom: 20px;
+}
+.both {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
